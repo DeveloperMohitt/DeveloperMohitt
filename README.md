@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **workwithmohit25@gmail.com**
 
-- ⚡ Fun fact **The first computer bug was literally a bug 🪲**
+- ⚡ Fun fact - **The first computer bug was literally a bug 🪲**
 
 # 🌐 Social
 <p align="left">
@@ -21,7 +21,7 @@
 <a href="https://discord.gg/1218911781582405693" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1218911781582405693" height="30" width="40" /></a>
 </p>
 
-# 🚀 Languages and Tools
+# 💻 Languages and Tools
 
 <!-- Programming Languages -->
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
