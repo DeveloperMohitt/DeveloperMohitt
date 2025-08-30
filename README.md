@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developermohitt&label=Profile%20views&color=0e75b6&style=flat" alt="developermohitt" /> </p>
 
-- 🔭 I’m currently Pursuing B.Tech in Computer Science
+- 🔭 I’m currently Pursuing **B.Tech in Computer Science**
   
 - 🌱 I’m currently learning **Devops + Cloud**
 
