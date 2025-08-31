@@ -16,6 +16,8 @@
 
 - ⚡ Fun fact - **The first computer bug was literally a bug 🪲**
 
+  <br>
+
 # 🌐 Social
 <p align="left">
 <a href="https://linkedin.com/in/mohitprajapati2k03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohitprajapati2k03" height="30" width="40" /></a>
