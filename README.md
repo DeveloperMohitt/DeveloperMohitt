@@ -34,7 +34,7 @@
 # Badges
 <b>My GitHub Stats</b>
 
-<p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=developermohitt&show_icons=true&locale=en" alt="developermohitt" />   <!--<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=developermohitt&show_icons=true&locale=en&layout=compact" alt="develpermohitt" />--> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=developermohitt&" alt="developermohitt" /></p>
+<p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=developermohitt&show_icons=true&locale=en" alt="developermohitt" />   <!--<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=developermohitt&show_icons=true&locale=en&layout=compact" alt="develpermohitt" />--> <img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=developermohitt&" alt="developermohitt" /></p>
 
 
 ## 🏆 GitHub Trophies
