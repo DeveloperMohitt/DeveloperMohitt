@@ -34,11 +34,8 @@
 # Badges
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/DeveloperMohitt"><img src="https://github-readme-stats.vercel.app/api?username=DeveloperMohitt&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=10b981&icon_color=444e59&bg_color=27272a&hide_border=true&show_icons=true" alt="DeveloperMohitt's GitHub stats" /></a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developermohitt&show_icons=true&locale=en" alt="developermohitt" />   <!--<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=developermohitt&show_icons=true&locale=en&layout=compact" alt="develpermohitt" />--> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developermohitt&" alt="developermohitt" /></p>
 
-<a href="http://www.github.com/DeveloperMohitt"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DeveloperMohitt&stroke=10b981&background=27272a&ring=f97316&fire=f97316&currStreakNum=10b981&currStreakLabel=f97316&sideNums=10b981&sideLabels=10b981&dates=10b981&hide_border=true" /></a>
-
-<a href="https://github.com/DeveloperMohitt" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperMohitt&langs_count=10&title_color=f97316&text_color=10b981&icon_color=444e59&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DeveloperMohitt&theme=radical&no-frame=false&no-bg=false&margin-w=4)
