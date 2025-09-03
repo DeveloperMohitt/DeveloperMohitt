@@ -35,11 +35,12 @@
 
 # Badges
 <b>My GitHub Stats</b>
+
 ![](https://github-readme-stats.vercel.app/api?username=DeveloperMohitt&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=DeveloperMohitt&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperMohitt&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-<!--<a href="http://www.github.com/DeveloperMohitt"><img src="https://github-readme-stats.vercel.app/api?username=DeveloperMohitt&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=444e59&bg_color=22272e&hide_border=true&show_icons=true" alt="DeveloperMohitt's GitHub stats" /></a> <!-- < <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=developermohitt&show_icons=true&locale=en&layout=compact" alt="develpermohitt" /> --> <a href="http://www.github.com/DeveloperMohitt"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DeveloperMohitt&stroke=ffffff&background=22272e&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>-->
+<!-- <a href="http://www.github.com/DeveloperMohitt"><img src="https://github-readme-stats.vercel.app/api?username=DeveloperMohitt&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=444e59&bg_color=22272e&hide_border=true&show_icons=true" alt="DeveloperMohitt's GitHub stats" /></a> --> <!-- < <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=developermohitt&show_icons=true&locale=en&layout=compact" alt="develpermohitt" /> --> <!-- <a href="http://www.github.com/DeveloperMohitt"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DeveloperMohitt&stroke=ffffff&background=22272e&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> -->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DeveloperMohitt&theme=radical&no-frame=false&no-bg=false&margin-w=4) 
